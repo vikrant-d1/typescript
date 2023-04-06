@@ -1,10 +1,10 @@
 
 ## Topics:
 
-#### 1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.
-#### 2. TypeScript installation and setup - learn how to install TypeScript and set up your development environment.
-#### 3. TypeScript syntax and data types - learn about the basic syntax of TypeScript, including variables, data types, and functions.
-#### 4.TypeScript classes and objects - learn how to use classes and objects in TypeScript and understand the differences between classes and interfaces.
+1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.
+2. TypeScript installation and setup - learn how to install TypeScript and set up your development environment.
+3. TypeScript syntax and data types - learn about the basic syntax of TypeScript, including variables, data types, and functions.
+ 4.TypeScript classes and objects - learn how to use classes and objects in TypeScript and understand the differences between classes and interfaces.
 
 
 ### 1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.
@@ -202,6 +202,18 @@ let myCar: Car = {
 }
 ```
 
+### [Typescript control flow](https://www.typescriptlang.org/static/TypeScript%20Control%20Flow%20Analysis-8a549253ad8470850b77c4c5c351d457.png)
+### [What is a tsconfig.json](https://www.typescriptlang.org/docs/handbook/tsconfig-json.html)
+
+### [TSConfig Reference](https://www.typescriptlang.org/tsconfig)
+
+### [Typescript Classes](https://www.typescriptlang.org/static/TypeScript%20Classes-83cc6f8e42ba2002d5e2c04221fa78f9.png)
+
+### [Interfaces](https://www.typescriptlang.org/static/TypeScript%20Interfaces-34f1ad12132fb463bd1dfe5b85c5b2e6.png)
+
+### [Type](https://www.typescriptlang.org/static/TypeScript%20Types-ae199d69aeecf7d4a2704a528d0fd3f9.png)
+
+### [DOM Manipulation](https://www.typescriptlang.org/docs/handbook/dom-manipulation.html)
 
 
 
