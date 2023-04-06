@@ -1,2 +1,3 @@
-# typescript
+# Typescript
 For beginner typescript concepts
+
