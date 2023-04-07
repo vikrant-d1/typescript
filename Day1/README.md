@@ -1,17 +1,19 @@
 
 ## Topics:
 
-1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.
-2. TypeScript installation and setup - learn how to install TypeScript and set up your development environment.
-3. TypeScript syntax and data types - learn about the basic syntax of TypeScript, including variables, data types, and functions.
- 4.TypeScript classes and objects - learn how to use classes and objects in TypeScript and understand the differences between classes and interfaces.
+**1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.**
+**2. TypeScript installation and setup - learn how to install TypeScript and set up your development environment.**
+**3. TypeScript syntax and data types - learn about the basic syntax of TypeScript, including variables, data types, and functions.**
+**4.TypeScript classes and objects - learn how to use classes and objects in TypeScript and understand the differences between classes and interfaces.**
 
 
 ### 1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.
 
 TypeScript is an open-source programming language developed and maintained by Microsoft. It is a superset of JavaScript, which means that any valid JavaScript code is also valid TypeScript code. TypeScript introduces optional static typing, classes, interfaces, and other features that make it easier to write and maintain complex applications.
+
 One of the key advantages of TypeScript is that it provides static type checking, which can help catch errors before the code is even executed. With static typing, developers can specify the types of variables, function parameters, and return values, and the compiler will ensure that these types are respected throughout the codebase. This can prevent many common programming errors, such as passing a string to a function that expects a number.
 Another advantage of TypeScript is that it supports modern JavaScript features, such as arrow functions, template literals, and destructuring, even when targeting older browsers. TypeScript also provides powerful tools for refactoring and code analysis, making it easier to maintain large code bases over time.
+
 One of the main differences between TypeScript and JavaScript is that TypeScript is a statically-typed language, while JavaScript is dynamically-typed. This means that in TypeScript, types are checked at compile-time, whereas in JavaScript, types are checked at runtime. Additionally, TypeScript provides support for classes, interfaces, and other object-oriented programming features that are not available in JavaScript.
 Overall, TypeScript can help developers write more reliable and maintainable code, especially in large-scale projects. Its static typing and modern features make it a powerful tool for building web applications, server-side applications, and other software projects.
 
@@ -44,9 +46,9 @@ This should print the version of TypeScript that you just installed.
 **Set up your development environment**
 4. To start using TypeScript in your projects, you'll need to set up your development environment. This will depend on the specific tools and frameworks you are using, but generally, you'll need to do the following:
 
-    - Create a new project or open an existing one.
-    - Create a tsconfig.json file in the root of your project. This file specifies the TypeScript compiler options for your project.
-    - Write your TypeScript code in .ts files, and compile them to JavaScript using the tsc command. You can run the compiler in watch mode by running tsc --watch, which will automatically recompile your code whenever you make changes.
+ - Create a new project or open an existing one.
+ - Create a tsconfig.json file in the root of your project. This file specifies the TypeScript compiler options for your project.
+ - Write your TypeScript code in .ts files, and compile them to JavaScript using the tsc command. You can run the compiler in watch mode by running tsc --watch, which will automatically recompile your code whenever you make changes.
 
 For example, if you're using Visual Studio Code, you can install the TypeScript extension to get TypeScript-specific features like syntax highlighting, code completion, and debugging. If you're using a framework like React or Angular, you'll need to follow their specific setup instructions for using TypeScript.
 
