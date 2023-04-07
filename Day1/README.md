@@ -2,8 +2,11 @@
 ## Topics:
 
 **1. Introduction to TypeScript - learn about what TypeScript is, its advantages, and how it is different from JavaScript.**
+
 **2. TypeScript installation and setup - learn how to install TypeScript and set up your development environment.**
+
 **3. TypeScript syntax and data types - learn about the basic syntax of TypeScript, including variables, data types, and functions.**
+
 **4.TypeScript classes and objects - learn how to use classes and objects in TypeScript and understand the differences between classes and interfaces.**
 
 
